@@ -58,7 +58,7 @@ plt.legend()
 plt.show()
 ```
 <H3>Output:</H3>
-![Screenshot 2025-04-11 113838](https://github.com/user-attachments/assets/01a51062-66aa-4004-8117-636fea1db247)
+![Screenshot 2025-04-11 113838](https://github.com/user-attachments/assets/7a8cbcbf-316e-4ca1-8ed8-bc1c12714256)
 
 
 <H3>Results:</H3>
